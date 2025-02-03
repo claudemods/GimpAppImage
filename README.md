@@ -1,0 +1,2 @@
+# GimpAppImage
+GimpAppImage
